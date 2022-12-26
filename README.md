@@ -1,3 +1,4 @@
+``` py
 class Attributes(Vipixel):
 	def __init__(self) -> None:
 	    pass
@@ -25,6 +26,6 @@ class Attributes(Vipixel):
 		environment = 'vscode'
 		
 		return langs, specialities, environment
-	
+	```
 
 
