@@ -1,4 +1,4 @@
-class Attributes(xKian):
+class Attributes(Vipixel):
 	def __init__(self) -> None:
 	    pass
 	
